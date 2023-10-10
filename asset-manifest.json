@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ShreyDev_Reactportfolio/static/css/main.044daf47.css",
+    "main.js": "/ShreyDev_Reactportfolio/static/js/main.d342ab8a.js",
+    "static/js/787.28cb0dcd.chunk.js": "/ShreyDev_Reactportfolio/static/js/787.28cb0dcd.chunk.js",
+    "static/media/pic2.png": "/ShreyDev_Reactportfolio/static/media/pic2.997cfbdfc27e38dc74e3.png",
+    "static/media/pic1.png": "/ShreyDev_Reactportfolio/static/media/pic1.0773b73d5db180b17d29.png",
+    "static/media/portfolio3.jpg": "/ShreyDev_Reactportfolio/static/media/portfolio3.8186df376b322a283488.jpg",
+    "static/media/portfolio5.jpg": "/ShreyDev_Reactportfolio/static/media/portfolio5.80291050be88a205c33f.jpg",
+    "static/media/portfolio2.jpg": "/ShreyDev_Reactportfolio/static/media/portfolio2.b125d1148fc72d7d00a3.jpg",
+    "static/media/portfolio4.jpg": "/ShreyDev_Reactportfolio/static/media/portfolio4.eaddd3f1956ae7b3ac39.jpg",
+    "static/media/portfolio6.jpg": "/ShreyDev_Reactportfolio/static/media/portfolio6.cfffe2ca4e775e909071.jpg",
+    "static/media/portfolio1.jpg": "/ShreyDev_Reactportfolio/static/media/portfolio1.b65d3404bdcc4ee8a852.jpg",
+    "index.html": "/ShreyDev_Reactportfolio/index.html",
+    "main.044daf47.css.map": "/ShreyDev_Reactportfolio/static/css/main.044daf47.css.map",
+    "main.d342ab8a.js.map": "/ShreyDev_Reactportfolio/static/js/main.d342ab8a.js.map",
+    "787.28cb0dcd.chunk.js.map": "/ShreyDev_Reactportfolio/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.044daf47.css",
+    "static/js/main.d342ab8a.js"
+  ]
+}
